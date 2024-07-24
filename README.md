@@ -1,4 +1,5 @@
 Energy of Quantum Dots (QDs) - Hamiltonian Eigenvalue Calculation
+
 This repository contains Python code for calculating the eigenvalues of a Hamiltonian matrix for quantum dots (QDs). The code constructs an NxN Hamiltonian matrix based on the excitations provided in CSV files and diagonalizes the matrix to obtain the eigenvalues. The results are saved in a .txt file based on the selected material and volume.
 
 Contents
